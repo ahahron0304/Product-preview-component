@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Product preview component using HTML and CSS](https://www.frontendmentor.io/solutions/product-preview-component-using-html-and-css-6CMMcXkHnw)
 - Live Site URL: [GitHub](https://ahahron0304.github.io/Product-preview-component/)
 
 ## My process
